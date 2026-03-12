@@ -4,6 +4,7 @@
 
 - [Dataflow kit](https://dataflowkit.com) - 使用简单的点击式工具包将网站数据转换为结构化数据。
 - [ProxyCrawl](https://proxycrawl.com) - 无块、验证码或代理抓取任何网站。
+- [ProxyClaw](https://proxyclaw.ai) - 住宅代理SDK，支持AI代理，2M+ IP，195+国家，反检测绕过，地理定位。`pip install iploop-sdk`
 - [ScraperAPI](https://www.scraperapi.com) - 管理代理的服务和无头浏览器，暴露一个 API 端点来抓取任何 url。
 - [import.io](https://import.io/)
 - [ScraperWiki](https://scraperwiki.com/about)

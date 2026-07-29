@@ -3,7 +3,7 @@
 ## Web 数据提取服务
 
 - [Dataflow kit](https://dataflowkit.com) - 使用简单的点击式工具包将网站数据转换为结构化数据。
-- [ProxyCrawl](https://proxycrawl.com) - 无块、验证码或代理抓取任何网站。
+- [Crawlbase](https://crawlbase.com/) - 提供 JavaScript 渲染、反机器人处理和地理路由的网页抓取 API。
 - [ProxyClaw](https://proxyclaw.ai) - 住宅代理SDK，支持AI代理，2M+ IP，195+国家，反检测绕过，地理定位。`pip install iploop-sdk`
 - [ScraperAPI](https://www.scraperapi.com) - 管理代理的服务和无头浏览器，暴露一个 API 端点来抓取任何 url。
 - [import.io](https://import.io/)
@@ -24,6 +24,7 @@
 - [SearchApi](https://www.searchapi.io/) - 实时 Google 及其他搜索引擎结果 API。
 - [SerpApi](https://serpapi.com/) - 访问搜索引擎结构化搜索结果的实时 API。
 - [ScrapingAnt](https://scrapingant.com/) - 具有数千个住宅代理和无头 Chrome 集群的 Web Scraping API。
+- [Xquik](https://xquik.com) - X 数据 API，提供搜索、帖子、用户资料、关注者、媒体、监控和 Webhook。Not affiliated with X Corp.
 - [Zyte(Scrapinghub)](https://www.zyte.com/) - Web 数据提取服务和平台，也是 Scrapy 的主要维护者。
-- [ProxiesAPI](https://proxiesapi.com/) - 具有自动重试、验证码处理和 javacript 渲染的旋转代理 API。
-- [ZenRows](https://www.zenrows.com/) - Web Scraping API 和代理服务器，可绕过任何反机器人解决方案，同时提供 javascript 渲染、旋转代理和地理定位。
+- [ProxiesAPI](https://proxiesapi.com/) - 具有自动重试、验证码处理和 JavaScript 渲染的旋转代理 API。
+- [ZenRows](https://www.zenrows.com/) - Web Scraping API 和代理服务器，可绕过任何反机器人解决方案，同时提供 JavaScript 渲染、旋转代理和地理定位。
